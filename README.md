@@ -1,6 +1,6 @@
-# NETFLIX-APP
+# NETFLIX-CLONE
 
-A Netflix app built using React. It fetches the data from TMDB (The Movie Database) API.
+A Netflix clone built using React. It fetches the data from TMDB (The Movie Database) API.
 
 ## You can:
 
@@ -12,7 +12,7 @@ A Netflix app built using React. It fetches the data from TMDB (The Movie Databa
 
 - [React](https://reactjs.org/)
 - [React Router](https://reactrouter.com/) for routing
-- [React İcon](https://react-icons.github.io/react-icons)
+- [React Icon](https://react-icons.github.io/react-icons)
 - [Tailwind](https://tailwindcss.com/)
 - [Firebase](https://firebase.google.com/) for authentication and database
 - [TMDB](https://www.themoviedb.org/) for movies
